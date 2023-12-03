@@ -2,6 +2,7 @@
   "expo": {
     "name": "FoodPicker",
     "slug": "FoodPicker",
+    "description": "App to help you pick a food in order to cook/order from a list filled with options added by you or other users when you don't know what to cook/order",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
